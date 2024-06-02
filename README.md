@@ -60,5 +60,3 @@ This repository is licensed under the MIT License. See the `LICENSE` file for mo
 - Boyd, J. P. (2001). Chebyshev and Fourier Spectral Methods. Dover Publications.
 - Canuto, C., Hussaini, M. Y., Quarteroni, A., & Zang, T. A. (2006). Spectral Methods: Fundamentals in Single Domains. Springer.
 - Trefethen, L. N. (2000). Spectral Methods in MATLAB. SIAM.
-
-This README provides a comprehensive overview of spectral methods and the specific weighted residual methods implemented in the repository. It serves as a guide for users to understand and utilize the methods effectively.
