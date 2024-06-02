@@ -1,1 +1,1 @@
-# Spectral Methods
+# Spectral methods
