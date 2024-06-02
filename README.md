@@ -36,11 +36,12 @@ where \( w_i(x) \) are the weight functions, \( R(x) \) is the residual, and \( 
 The repository is structured as follows:
 
 ```
-├── collocation_method.py
-├── galekin_method.py
-├── least_squares_method.py
-├── subdomain_method.py
-├── ritz_method.py
+├── ODE
+   ├── collocation.py
+   ├── galekin.py
+   ├── least_squares.py
+   ├── subdomain.py
+   ├── ritz_collocation.py
 ├── README.md
 ```
 
