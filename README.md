@@ -12,7 +12,7 @@ Weighted residual methods are based on the idea of minimizing the residual (the 
 
 $\int_{\Omega} w_i(x) R(x) \, dx = 0$
 
-where ( $w_i(x)$ ) are the weight functions, ( $R(x)$ ) is the residual, and ($\Omega$) is the domain of the problem.
+where ( $w_i(x)$ ) are the weight functions, ( $R(x)$ ) is the residual, and ( $\Omega$ ) is the domain of the problem.
 
 ### Methods Included
 
