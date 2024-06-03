@@ -48,6 +48,11 @@ The repository is structured as follows:
    ├── least_squares.py
    ├── subdomain.py
    ├── ritz_collocation.py
+├── IE
+   ├── collocation.py
+   ├── galekin.py
+   ├── least_squares.py
+   ├── subdomain.py
 ├── README.md
 ```
 
